@@ -10,3 +10,10 @@ The primary objective of this project is to enhance security and manageability o
 - Infrastructure as Code (IaC): Uses Terraform's IaC capabilities to manage firewall configurations, enabling version control and collaboration.
 - Cloud Shell Integration: Implements Google Cloud Shell for executing Terraform scripts, providing a seamless cloud-native development and deployment environment.
 - Modular Design: Organizes Terraform code into reusable modules, promoting maintainability and scalability of firewall rules.
+
+
+<img src="https://imgur.com/rp3tWPr.png">
+<img src="https://imgur.com/8m1KBED.png">
+<img src="https://imgur.com/RLbZRHX.png">
+<img src="https://imgur.com/AywpWU1.png">
+<img src="https://imgur.com/uBczLt2.png">
